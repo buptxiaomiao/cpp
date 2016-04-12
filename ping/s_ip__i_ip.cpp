@@ -25,6 +25,7 @@ int main(void)
 	cout<<"addr2: "<<data<<endl;
 
 
-	data = inet_ntoa(a1:)
+	data = inet_ntoa(a1)
+	
 	return 0;
 }
